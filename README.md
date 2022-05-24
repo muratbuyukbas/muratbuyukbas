@@ -5,7 +5,7 @@
   <li>🧑🏽‍💻 I'm currently working on an iOS mobile app</li>
   <li>💬 You can ask anything about Wordpress, feel free to mail me: <a href="mailto:muratbbas@gmail.com">muratbbas@gmail.com</a></li>
 </ul> 
-
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratbuyukbas" alt="muratbuyukbas" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muratbuyukbas&label=Profile%20views&color=0e75b6&style=flat" alt="muratbuyukbas" /> </p>
